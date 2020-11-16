@@ -54,11 +54,11 @@ Some of the important operations that i have done in the [notebook](https://gith
     
 	[Read more.](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
 
-4. **Evaluation Metrices**
+4. **Evaluation Metrics**
    - Mean Square Error:MSE is calculated by the sum of square of prediction error which is real output minus predicted output and then divide by the number of data points. It gives you an absolute number on how much your predicted results deviate from the actual number. You cannot interpret much insights from one single result but it gives you an real number to compare against other model results and help you select the best regression model.
    
 	![image_3](https://wikimedia.org/api/rest_v1/media/math/render/svg/e258221518869aa1c6561bb75b99476c4734108e)
    
 	- Mean Absolute Error:Mean Absolute Error(MAE) is similar to Mean Square Error(MSE). However, instead of the sum of square of error in MSE, MAE is taking the sum of absolute value of error.
    
-	![image_4](https://learn.64bitdragon.com/articles/mathematics/statistics/mean-absolute-error/mae.png)
+	![image_4](https://wikimedia.org/api/rest_v1/media/math/render/svg/3ef87b78a9af65e308cf4aa9acf6f203efbdeded)
