@@ -47,6 +47,7 @@ Some of the important operations that i have done in the [notebook](https://gith
         `left_outliers=print(Q1 - (1.5 * IQR))`
         `right_oulier=sprint(Q3 + (1.5 * IQR))`
 3. **Label Encoding**
+
     categorical data needs to be converted to numerical data to be fed to our model , this can be achieved by importimg label_encoder from sklearn library .
     ![image_2](https://miro.medium.com/max/772/1*QQe-4476Oy3_dI1vhb3dDg.png)
     read more from the [official documentation](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html) of this library .  
